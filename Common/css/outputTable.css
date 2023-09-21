@@ -1,0 +1,56 @@
+.outputTableClass{
+    margin: 1cm;
+    padding: 1cm;
+    border-collapse: collapse;
+    border: solid thin black;
+    width: 80%;
+}
+.outputTableClass th{
+    background-color:darkslategrey;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    padding: 2mm;
+    border: solid thin black;
+    
+    
+}
+
+.outputTableClass td{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 2mm;
+    border: solid thin black;
+    
+}
+
+.outputTableClass tr:nth-child(odd){
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium; 
+}
+.outputTableClass tr:nth-child(even){
+    background-color: rgb(224,224,224);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium; 
+}
+
+.smallerTableCellClass{
+    width: 3cm;
+}
+
+.smallTableCellClass{
+    width: 5cm;
+}
+
+.normalTableCellClass{
+    width: 8cm;
+}
+
+.bigTableCellClass{
+    width: 12cm;
+}
+
+.biggerTableCellClass{
+    width: 15cm;
+}

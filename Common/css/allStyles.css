@@ -1,0 +1,198 @@
+body{
+    padding: 2mm;
+}
+button{
+    margin-left: 5mm;
+    margin-right: 5mm;
+    width: 5cm;
+    height: 1cm;
+    background-color:grey;
+    color: white;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+span{
+    padding-left: 5mm;
+    padding-right: 5mm;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input[type="text"]{
+    width: 10cm;
+    height: 15mm;
+    padding: 1mm;
+}
+
+.radioButtonClass input[type="radio"]{
+    margin-right: 1mm;
+}
+
+.radioButtonClass label{
+    margin-right: 4mm;
+}
+
+
+.headingClass{
+    border: solid thin black;
+    margin : 5mm;
+    padding: 5mm;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkcyan;
+    color: white;
+}
+
+
+
+.smallTextBoxClass{
+    width: 5cm;
+    height: 15mm;
+    padding: 1mm;
+}
+
+.bigTextBoxClass{
+    width: 12cm;
+    height: 15mm;
+    padding: 1mm;
+}
+
+.biggerTextBoxClass{
+    width: 20cm;
+    height: 15mm;
+    padding: 1mm;
+}
+
+.outputTableClass{
+    margin: 1cm;
+    padding: 1cm;
+    border-collapse: collapse;
+    border: solid thin black;
+    width: 80%;
+}
+.outputTableClass th{
+    background-color:darkslategrey;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    padding: 2mm;
+    border: solid thin black;
+    
+    
+}
+
+.outputTableClass td{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 2mm;
+    border: solid thin black;
+    
+}
+
+.outputTableClass tr:nth-child(odd){
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium; 
+}
+.outputTableClass tr:nth-child(even){
+    background-color: rgb(224,224,224);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium; 
+}
+
+.smallerTableCellClass{
+    width: 3cm;
+}
+
+.smallTableCellClass{
+    width: 5cm;
+}
+
+.normalTableCellClass{
+    width: 8cm;
+}
+
+.bigTableCellClass{
+    width: 12cm;
+}
+
+.biggerTableCellClass{
+    width: 15cm;
+}
+
+.inputTableClass{
+    margin: 1cm;
+    padding: 1cm;
+    border-collapse: collapse;
+    border: solid thin black;
+    width: 80%;
+}
+.inputTableClass th{
+    background-color:darkslategrey;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    padding: 2mm;
+    border: solid thin black;
+    height: 10mm;
+    
+}
+
+.inputTableClass td{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    padding: 2mm;
+   
+    
+}
+
+.smallerTextBoxClass{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    width: 3cm;
+    height: 10mm;
+    padding: 1mm;
+}
+.smallTextBoxClass{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    width: 8cm;
+    height: 10mm;
+    padding: 1mm;
+}
+
+.bigTextBoxClass{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    width: 12cm;
+    height: 10mm;
+    padding: 1mm;
+}
+
+.biggerTextBoxClass{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    padding: 1mm;
+    width: 20cm;
+    height: 10mm;
+    padding: 1mm;
+}
+.selectControlBoxClass{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    width: 12cm;
+    height: 10mm;
+    padding: 1mm;
+}
+.formButtonClass{
+    margin-left: 5mm;
+    margin-right: 5mm;
+    width: 5cm;
+    height: 1cm;
+    background-color:green;
+    color: white;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+
